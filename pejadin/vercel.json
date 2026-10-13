@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "app.py": {
+      "includeFiles": [
+        "backend/**",
+        "database/**",
+        "frontend/**"
+      ]
+    }
+  }
+}
